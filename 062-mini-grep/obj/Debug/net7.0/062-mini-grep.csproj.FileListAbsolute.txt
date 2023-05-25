@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\bin\Debug\net7.0\062-mini-grep.exe
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\bin\Debug\net7.0\062-mini-grep.deps.json
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\bin\Debug\net7.0\062-mini-grep.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\bin\Debug\net7.0\062-mini-grep.dll
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\bin\Debug\net7.0\062-mini-grep.pdb
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\062-mini-grep.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\062-mini-grep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\062-mini-grep.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\062-mini-grep.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\062-mini-grep.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\062-mini-grep.dll
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\refint\062-mini-grep.dll
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\062-mini-grep.pdb
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\062-mini-grep.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\062-mini-grep\obj\Debug\net7.0\ref\062-mini-grep.dll
